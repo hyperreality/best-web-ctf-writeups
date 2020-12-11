@@ -34,11 +34,15 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
 ## Ruby
  - [R0bynotes](https://flagbot.ch/posts/r0bynotes/) - pbctf 2020 - Robin Jadoul - Deserialisation
 
+## Angular
+ - [Ikea Name Generator](https://blog.jimmyli.us/articles/2020-12/PerfectBlueCTF-WebExploitaiton), [alternatively](https://w0y.at/writeup/2020/12/08/pbctf-2020-ikea-name-generator.html) - pbctf 2020 - jimmyli, lavish - Prototype pollution, DOM clobbering, PHP encoding, CSP bypass
+
 ## Service Workers
  - [Subresource Integrity in Service Workers](https://frederik-braun.com/sw-sri-challenge.html) - Subresource Integrity in Service Workers - Frederick Braun
 
 ## Redis
  - [Web Real time Chat](https://github.com/zoeyg/public-write-ups/blob/master/csaw-2020/web-real-time-chat.md) - CSAW 2020 - zoeyg - TURN TCP proxying
+ - [urlapp](https://ctftime.org/writeup/18603) - zer0pts 2020 - kazkiti - Ruby regexes
 
 ## ImageMagick
  - [gPhotos](https://blog.bushwhackers.ru/googlectf-2019-gphotos-writeup/) - GoogleCTF 2019 - Bushwhackers - XXE

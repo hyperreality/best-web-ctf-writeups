@@ -16,15 +16,23 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
  - [Pasteurize](https://pop-eax.github.io/blog/posts/ctf-writeup/web/xss/2020/08/23/googlectf2020-pasteurize-tech-support-challenge-writeups/) - GoogleCTF 2020 - pop_eax - DOMPurify
  - [All The Little Things](https://blog.s1r1us.ninja/CTF/IuseBing) - GoogleCTF 2020 - s1r1us - Prototype pollution, DOM clobbering, CSP bypass
  - [gCalc](https://blog.orange.tw/2018/06/google-ctf-2018-quals-web-gcalc.html) - GoogleCTF 2018 - orange - CSP bypass
+ - [X Sanitizer](https://kitctf.de/writeups/googlectf/x-sanitizer) - GoogleCTF 2017 - eboda - CSP bypass, Encoding
 
 ## SQL Injection
  - [gLotto](https://ctftime.org/writeup/15812) - GoogleCTF 2019 - kmh11 - MySQL, ORDER-based, JSON
 
 ## XXE
- - [BNV](https://medium.com/hmif-itb/googlectf-2019-web-bnv-writeup-nicholas-rianto-putra-medium-b8e2d86d78b2) - GoogleCTF 2019- Nicholas Putra - Content-type
+ - [BNV](https://medium.com/hmif-itb/googlectf-2019-web-bnv-writeup-nicholas-rianto-putra-medium-b8e2d86d78b2) - GoogleCTF 2019 - Nicholas Putra - Content-type
+
+## CSS
+ - [Cat Chat](https://twisted-fun.github.io/2018-06-26-GCTF18-WEB-210/) - GoogleCTF 2018 - Twisted Fun
+
+## DOM-based
+ - [WriteupBin](https://ctftime.org/writeup/17891) - 36C3 - luminougat
 
 ## PHP
  - [Phuck3](https://flagbot.ch/posts/phuck3/) - INS'hAck 2019 - Leonardo Galli - open_basedir
+ - [PDF Creator](https://bananamafia.dev/post/php-deserialize-cccamp19/) - CCCamp 2019 - Banana Mafia - phar
  - [Wallbreaker Easy](https://github.com/mdsnins/ctf-writeups/blob/master/2019/0ctf%202019/Wallbreaker%20Easy/WallbreakerEasy.md) - 0CTF/TCTF 2019 - KAIST GoN - LD_PRELOAD, GhostScript
 
 ## Python
@@ -33,6 +41,9 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
 
 ## Ruby
  - [R0bynotes](https://flagbot.ch/posts/r0bynotes/) - pbctf 2020 - Robin Jadoul - Deserialisation
+
+## Node
+ - [Only Freights](https://github.com/0x13A0F/CTF_Writeups/tree/master/alles_ctf#onlyfreights) - ALLES CTF 2020 - 0x13A0F - Prototype Pollution, Command injection
 
 ## Angular
  - [Ikea Name Generator](https://blog.jimmyli.us/articles/2020-12/PerfectBlueCTF-WebExploitaiton), [alternatively](https://w0y.at/writeup/2020/12/08/pbctf-2020-ikea-name-generator.html) - pbctf 2020 - jimmyli, lavish - Prototype pollution, DOM clobbering, PHP encoding, CSP bypass
@@ -48,7 +59,7 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
  - [gPhotos](https://blog.bushwhackers.ru/googlectf-2019-gphotos-writeup/) - GoogleCTF 2019 - Bushwhackers - XXE
 
 ## Unicode
- - [Geokitties v2](https://github.com/numirias/ctf/blob/master/writeup-google-ctf-2017-geokitties-v2.md) - GoogleCTF 2017- numirias - Charset sniffing
+ - [Geokitties v2](https://github.com/numirias/ctf/blob/master/writeup-google-ctf-2017-geokitties-v2.md) - GoogleCTF 2017 - numirias - Charset sniffing
  - [Unicorn Shop](https://github.com/hyperreality/ctf-writeups/tree/master/2019-asis) - ASIS 2019 - hyperreality
 
 ## Multiple Techniques

@@ -48,8 +48,12 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
 ## Angular
  - [Ikea Name Generator](https://blog.jimmyli.us/articles/2020-12/PerfectBlueCTF-WebExploitaiton), [alternatively](https://w0y.at/writeup/2020/12/08/pbctf-2020-ikea-name-generator.html) - pbctf 2020 - jimmyli, lavish - Prototype pollution, DOM clobbering, PHP encoding, CSP bypass
 
+## Deserialisation
+ - [Defiltrate - Part 1](https://r3billions.com/writeup-defiltrate-part1/) - Insomnihack 2020 - r3billions
+
 ## Service Workers
  - [Subresource Integrity in Service Workers](https://frederik-braun.com/sw-sri-challenge.html) - Subresource Integrity in Service Workers - Frederick Braun
+ - [Jail](https://ctftime.org/writeup/15351) - RCTF 2020 - zsx - CSP bypass, WebRTC
 
 ## Redis
  - [Web Real time Chat](https://github.com/zoeyg/public-write-ups/blob/master/csaw-2020/web-real-time-chat.md) - CSAW 2020 - zoeyg - TURN TCP proxying
@@ -65,6 +69,7 @@ GoogleCTF tends to have the best writeups as players are financially motivated.
 ## Multiple Techniques
  - [Pizza Time](https://buer.haus/2020/07/31/hcktivitycon-pizza-time-web-750/) - h@cktivitycon 2020 - Brett Buerhaus - SQLi, XSS, SSRF
  - [Trash the Cache](https://buer.haus/2020/06/14/nahamcon-trash-the-cache-write-up-web-1000/) - NahamCon 2020 - Brett Buerhaus - XSS, SSRF
+ - [H1-5411](https://hackerone.com/reports/415137#) - HackerOne 2018 - Brett Buerhaus and erbbysam - Deserialisation, XXE
 
 ## PicoCTF
  - [2018](https://s0cket7.com/picoctf-web/) - s0cket7
